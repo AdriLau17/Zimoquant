@@ -34,7 +34,7 @@ NOTE: You will need administrator rights to run MCRInstaller.
 
 Files to package for Standalone 
 ================================
--zimo_kat.exe
+-zimoquant.exe
 
 -MCRInstaller.exe 
 
